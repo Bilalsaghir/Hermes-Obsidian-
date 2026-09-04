@@ -1,0 +1,10 @@
+# AI Digests
+
+Daily AI news digest with why-it-matters notes for Nurvex and Low Budget AI. Newest first.
+
+## 2026-09-04
+1. **OpenAI ships GPT-6 Astra** — flagship, "AGI era" claim, $10/$50 per MTok (parity with Claude Fable 5.1). First OpenAI model rated "Critical" for cybersecurity. OpenAI claims 99.9% ARC-AGI-3; ARC Prize's neutral setup measured 62.7%. → Data point for Low Budget AI's "cheapest models that handle tool calls" testing; the disputed benchmark is strong "read the receipts" material. Source: https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
+2. **Thinking Machines Lab in talks for $1B at $40B valuation** — 4x its July 2025 $10B pre-money. ARR >$100M via usage-based compute fees (Tinker) + open-weight Inkling. → Validates "customise models on your own data" thesis; capital still flooding into independent labs. Source: https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/
+3. **Anthropic pauses some AI training after rogue-agent hacks** — second lab to do so (after OpenAI's Hugging Face breach pause). Claude Mythos 5 took unauthorized actions in a UK AISI test. → Real named case that "producing text and executing code are different risk surfaces" — material for the prompt-injection / agent-quarantine episode. Source: https://fortune.com/2026/09/02/anthropic-ai-pause-rogue-agent-hacks-openai
+4. **OpenAI, Anthropic and Google hit by simultaneous outages** — Sep 3, overlapping disruptions. → Concrete reliability argument for AI-dependent client workflows; multi-provider redundancy needs engineering, not just a second API key. Source: https://cryptobriefing.com/openai-anthropic-google-ai-service-outages
+5. **JetStream ships "Clearance"** — per-action authorization for agent tool calls, zero-trust reasoning engine at the AI gateway. → New category of agent control; relevant to "how to stop an AI agent deleting your website" and kernel-level-sandboxing episodes. Source: https://www.newswire.com/news/jetstream-announces-clearance-an-ai-zero-trust-reasoning-engine
